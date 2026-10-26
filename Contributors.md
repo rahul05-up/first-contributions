@@ -19,7 +19,7 @@
 <<<<<<< HEAD
 - [Aditi Shree] (https://github.com/aditeaayyyy) -> 1st step of learning open source contribution 🚀
 =======
-- [Saranyo Deyasi](https://github.com/DSaranyo) - First Open Source Contribution!!!!!1
+- [Saranyo Deyasi](https://github.com/DSaranyo) - First Open Source Contribution
   
 - [Fatima Asim](https://github.com/fatimabuttasim) - First open source contribution!
  - [viessmanbessinger-ux](https://github.com/viessmanbessinger-ux) - My first open-source contribution!
